@@ -1,10 +1,9 @@
 {
   "name": "brief6",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +12,15 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "opn": "^6.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selhamdi/brief-6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/selhamdi/brief-6/issues"
+  },
+  "homepage": "https://github.com/selhamdi/brief-6#readme",
+  "description": ""
 }

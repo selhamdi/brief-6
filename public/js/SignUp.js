@@ -3,12 +3,15 @@ $(document).ready(function(){
         var username = $("#name").val();
         var password = $("#pass").val();
         var email = $("#email").val();
+        var cin = $("#cin").val();
+        var DateDeNaissance = $("#DateDeNaissance").val();
+        
 
-        if( username != "" && password != "" && email !=""){
+        if( username != "" && password != "" && email !="" && cin != "" && DateDeNaissance !="" ){
              $.ajax({
                 url:'/SignUp',
                 type:'post',
-                data:{username,password,email},
+                data:{username,password,email,cin,DateDeNaissance},
                 success:function(response){
                     if(response.request){
                                   window.location.href="accueil.html"; 

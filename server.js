@@ -22,6 +22,7 @@ app.use(express.static('public'))
 // API'S
 app.use(routeSignUp);
 app.use(routeLogin);
+
 app.listen(port, () => {console.log(`listening on port ${port}!`);
-//opn("http://localhost:3000/vue/login.html%22)
+// opn("http://localhost:3000/vue/login.html");
 });

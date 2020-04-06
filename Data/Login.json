@@ -1,1 +1,67 @@
-[{"username":"salima","password":"salima123","email":"salimaeii1997@gmail.com","cin":"hh2337","datedenaissance":"28/10/1997"},{"username":"am_al3876","password":"h5ZQ@7RkjDffS@a","email":"salimaeii1997@gmail.com"}]
+[
+    {
+        "username": "salima",
+        "password": "salima123",
+        "email": "salimaeii1997@gmail.com",
+        "cin": "hh2337",
+        "datedenaissance": "28/10/1997"
+    },
+    {
+        "username": "am_al3876",
+        "password": "h5ZQ@7RkjDffS@a",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "am_",
+        "password": "sali",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "salima",
+        "password": "h5ZQ@7RkjDffS@a",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "salima",
+        "password": "aa",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "sali",
+        "password": "sali",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "sali",
+        "password": "sali",
+        "email": "salimaeii1997@gmail.com"
+    },
+    {
+        "username": "am_al3876",
+        "password": "aa",
+        "email": "salimaeii1997@gmail.com",
+        "cin": "MC40729",
+        "DateDeNaissance": "2020-04-11"
+    },
+    {
+        "username": "am_al3876",
+        "password": "aa",
+        "email": "salimaeii1997@gmail.com",
+        "cin": "MC40729",
+        "DateDeNaissance": "2020-04-11"
+    },
+    {
+        "username": "aa",
+        "password": "AA",
+        "email": "salimaeii1997@gmail.com",
+        "cin": "MC40729",
+        "DateDeNaissance": "2020-04-10"
+    },
+    {
+        "username": "aa",
+        "password": "AA",
+        "email": "salimaeii1997@gmail.com",
+        "cin": "MC40729",
+        "DateDeNaissance": "2020-04-10"
+    }
+]
